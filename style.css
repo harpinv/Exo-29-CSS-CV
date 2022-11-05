@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    background: darkgray;
+}
+
+.titre {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: cornflowerblue;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 50px;
+    background-color: antiquewhite;
+    float: ;
+}
+
+img {
+    float: right;
+    left: 100px;
+    bottom: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#presentation {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+#presentation p {
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#cursus {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: bisque;
+}
+
+#cursus h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.diplome {
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+.annee {
+    font-weight: bolder;
+}
+
+#professionnelles {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+#professionnelles h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+li {
+    margin-left: 90px;
+}
+
+#competence {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: bisque;
+}
+
+#competence h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+#competence p {
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#centre {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+#centre h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+#centre p {
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#contact {
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: bisque;
+}
+
+#contact h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+    color: cornflowerblue;
+    font-size: 40px;
+}
+
+input {
+    height: 35px;
+    width: 250px;
+    margin-left: 20px;
+}
+
+.mape {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 20px;
+}
